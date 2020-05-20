@@ -2,6 +2,10 @@
 
 By [Andrew Bennett](mailto:andrewbennett910@gmail.com)
 
+This is a simple toy app to demo React and Node javascript code to potential employers.
+
+Enter a number into the input field to output the median prime numbers between 0 and your input. Try entering some bad data too.
+
 ## Instructions
 
 1. Clone the repo locally
